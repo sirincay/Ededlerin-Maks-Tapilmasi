@@ -1,3 +1,4 @@
+// @HusnuEhedov
 #include <iostream>
 int max_eded(int *, int);
 int main(int argc, char *argv[]){
