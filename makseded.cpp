@@ -1,7 +1,7 @@
 #include <iostream>
 int max_eded(int *, int);
 int main(int argc, char *argv[]){
-int i, x[10], say, max;
+int i, x[10], say, max; //Mənimsətdik
   
 std::cout<<"10 -den kicik her hansi bir eded daxil edin \n";
 std::cin>>say;
